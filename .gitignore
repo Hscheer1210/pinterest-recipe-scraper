@@ -7,3 +7,4 @@ src/data/recipes_ingredients.json
 src/data/recipes_markdown.json
 src/data/cookie.txt
 node_modules
+.DS_Store
